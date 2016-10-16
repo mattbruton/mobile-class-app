@@ -11,7 +11,8 @@ import { Component, OnInit } from '@angular/core';
 
 export class SplashComponent implements OnInit {
 
-  title = "Evening Cohort 3";
+  title = "Evening Cohort";
+  three = "Three"
 
   constructor() { }
 
